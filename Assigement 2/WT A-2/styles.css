@@ -1,0 +1,16 @@
+/* Styles (styles.css) */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+button, a {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
